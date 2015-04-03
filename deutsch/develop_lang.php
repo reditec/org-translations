@@ -1,6 +1,6 @@
 <?php
-$lang['develop_title']              	= "Entwickeln";
-$lang['develop_subtitle']           	= "Lassen Sie Ihre Ideen zu Code werden";
+$lang['develop_title']              	= "Entwickeln Sie";
+$lang['develop_subtitle']           	= "Ihre Ideen in Code";
 $lang['develop_parahead']           	= "Ressourcen, Infos & Mehr";
 $lang['develop_paragraph']          	= "Basierend auf dem Besten, was Freie Software zu bieten hat, stellt elementary eine entwicklerfreundliche Plattform bereit. Wir stellen Programmierern, und solchen die es werden wollen, die besten Ressourcen und Dokumente zur Verfügung, um sicherzustellen dass Sie mit Ihren Anwendungen glänzen können.";
 $lang['develop_link1']              	= "Lesen Sie die »Human Interface Guidelines«, um Anwendungen mit herausragendem Design und intuitiver Benutzerführung zu erstellen.";
